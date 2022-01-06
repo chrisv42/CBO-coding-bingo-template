@@ -9,6 +9,8 @@ Returns:
 Examples:
     [1,2,3,4] => 2
     [100] => 100
+Notes:
+    - You can assume that the list is not empty
 """
 
 

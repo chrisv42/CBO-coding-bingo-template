@@ -1,6 +1,7 @@
 """
 This function takes in two integers and a character representing
-an operation to happen on the two integers given.
+an operation to happen on the two integers given. All numbers are
+to be rounded down.
 
 Arguments:
     num1 (Int): The first integer
@@ -12,6 +13,7 @@ Examples:
     2, 3, '-' => -1
     10, 0, "*" => 0
     100, 10, '/' => 10
+    5, 2, '/' => 2
 Notes:
     You may assume you won't get any invalid operations (like dividing by 0)
 """

@@ -1,1 +1,5 @@
-# Write your code here!
+def fizzbuzz(num):
+    """
+    Write your code here!
+    """
+    pass
