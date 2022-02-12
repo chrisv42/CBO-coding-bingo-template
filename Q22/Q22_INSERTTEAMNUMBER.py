@@ -16,4 +16,18 @@ Notes:
   built in functions that get the minimum of the list automatically.
 """
 
-# Write your code here!
+# Uncomment and write your code here!
+
+
+# class MinList:
+#     def push(self, val):
+#         pass
+
+#     def pop(self):
+#         pass
+
+#     def top(self):
+#         pass
+
+#     def get_min(self):
+#         pass
