@@ -2,8 +2,9 @@
 # Underneath the fixed code, describe what the initial issue was and how
 # you fixed it.
 
+
+# CONVERSION_RATE = 0.393701
 # def height_conversion(heights):
-#     CONVERSION_RATE = 0.393701
 #     heights_in_inches = []
 #     for idx in range(0, len(heights)):
 #         converted_height = heights[i] * CONVERSION_RATE
