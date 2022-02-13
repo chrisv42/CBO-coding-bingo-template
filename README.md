@@ -23,7 +23,7 @@ Now you can run the `test.py` file and it should work!
 
 ## Scoring System
 
-The number of points alloted for every completed question is stated in the README of the question. If you complete one full row, column or diagonal (see https://cbo-challenge.netlify.app/ for how the board is layed out), you will get an extra + 5 points added to your overall score.
+The number of points alloted for every completed question is stated in the README of the question. If you complete one full row, column or diagonal (see https://cbo-challenge.netlify.app/ for how the board is layed out), you will get an extra + 3 points added to your overall score.
 
 Questions have an all or nothing scoring scheme, meaning you either get the question completely correct and get all points awarded, or you will get none of the points. No partial points will be awarded.
 
