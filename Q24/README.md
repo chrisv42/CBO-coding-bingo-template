@@ -1,4 +1,4 @@
-# CBO Coding Challenge Question 24 - 1 points
+# CBO Coding Challenge Question 24 - 1 point
 
 Write a program that converts currencies (e.g. $1 CAD -> $1.2 USD).
 

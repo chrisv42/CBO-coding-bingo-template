@@ -1,4 +1,4 @@
-# CBO Coding Challenge Question 23 - 1 points
+# CBO Coding Challenge Question 23 - 1 point
 
 We have set up a server on our end that stores information given to it.
 
