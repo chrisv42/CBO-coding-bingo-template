@@ -1,2 +1,6 @@
 # CBO-coding-bingo-template
-A template for the CBO Coding Bingo challenge.
+Welcome to the Codingo challenge!
+
+All question submissions should be uploaded here: https://forms.gle/7RaG58TL4oUvuBAM8
+
+If you have any questions/comments/concerns feel free to ask them in this discord: https://discord.gg/94RJUHft
