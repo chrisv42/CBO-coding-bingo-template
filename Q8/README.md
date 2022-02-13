@@ -7,3 +7,7 @@ Example:
 INPUT: your_function("Hello world")
 
 OUTPUT: ".... . .-.. .-.. --- / .-- --- .-. .-.. -.."
+
+INPUT: your_function("SOS")
+
+OUTPUT: "... --- ..."
