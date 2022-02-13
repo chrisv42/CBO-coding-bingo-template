@@ -4,10 +4,10 @@ Write a function that converts a sentence into morse code using the provided dic
 
 Example:
 
-INPUT: your_function("Hello world")
+INPUT: morse_code_translator("Hello world")
 
 OUTPUT: ".... . .-.. .-.. --- / .-- --- .-. .-.. -.."
 
-INPUT: your_function("SOS")
+INPUT: morse_code_translator("SOS")
 
 OUTPUT: "... --- ..."
