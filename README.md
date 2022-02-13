@@ -20,3 +20,18 @@ from Q1_5 import sudoku_solver
 ```
 
 Now you can run the `test.py` file and it should work!
+
+## Scoring System
+
+The number of points alloted for every completed question is stated in the README of the question. If you complete one full row, column or diagonal (see https://cbo-challenge.netlify.app/ for how the board is layed out), you will get an extra + 5 points added to your overall score.
+
+Questions have an all or nothing scoring scheme, meaning you either get the question completely correct and get all points awarded, or you will get none of the points. No partial points will be awarded.
+
+In the case that there is a tie in points for placements at the end of the competition, the team with the earlier overall submission times will be named as the winners. For example, if teams #1 and #2 get the following points and submission times:
+
+|        | Q1 (5 points)     | Q2 (3 points)     | Q3 (3 points)      | Q4 (10 points) | Total Points |
+|--------|-------------------|-------------------|--------------------|----------------|--------------|
+| Team 1 | Submitted 9:00 AM | Not Submitted     | Submitted 10:00 AM | Not Submitted  | 8            |
+| Team 2 | Submitted 9:30 AM | Submitted 9:45 AM | Not Submitted      | Not Submitted  | 8            |
+
+Then Team 2 will be the winner because all their points were earned earlier than Team 1.
