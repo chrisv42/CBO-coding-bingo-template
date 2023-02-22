@@ -1,4 +1,4 @@
-# CBO Coding Challenge Question 15 - 2 points
+# CBO Coding Challenge Question 15 - 4 points
 
 Create an interactive game in the terminal with the following technical spec (specification)
 
