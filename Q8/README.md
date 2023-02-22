@@ -1,13 +1,15 @@
 # CBO Coding Challenge Question 8 - 3 points
 
-Write a function that converts a sentence into morse code using the provided dictionary in the code file.
+Write a function to converts a number to its value in Roman numerals. 
+
+Tested inputs: 1 - 1,000,000
 
 Example:
 
-INPUT: morse_code_translator("Hello world")
+INPUT: 2
 
-OUTPUT: ".... . .-.. .-.. --- / .-- --- .-. .-.. -.."
+OUTPUT: "II"
 
-INPUT: morse_code_translator("SOS")
+INPUT: 105
 
-OUTPUT: "... --- ..."
+OUTPUT: "CV"
