@@ -2,7 +2,6 @@ from colorama import Fore
 from Q5_INSERTTEAMNUMBER import average_of_list
 
 TEST_INPUT = [
-    [],
     [1, 2, 3, 4, 5],
     [-4, 5, 10, 11],
     [71, 2000, 12, 789, 2, -189],
@@ -40,7 +39,7 @@ TEST_INPUT = [
         145,
     ],
 ]
-TEST_OUTPUT = [0, 3, 5, 447, -47, 688]
+TEST_OUTPUT = [3, 7.5, 41.5, 4, 79.5]
 
 
 def test_function():
