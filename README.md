@@ -3,7 +3,7 @@ Welcome to the Codingo challenge! For a central hub for all the questions, check
 
 All question submissions should be uploaded here: https://forms.gle/pz84pRCok7mhzjd48
 
-If you have any questions/comments/concerns feel free to ask them in this discord: https://discord.gg/94RJUHft
+If you have any questions/comments/concerns feel free to ask them in this discord: [https://discord.gg/94RJUHft](https://discord.gg/jNb3n82a)
 
 Before attempting any question please be sure to change the name of the file to include your team number! For example, if you are team #5 and you wish to submit question #1, please make sure that your submission file has the name `Q1_5.py`.
 
