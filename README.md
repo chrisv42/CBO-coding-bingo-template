@@ -1,7 +1,7 @@
 # CBO-coding-bingo-template
 Welcome to the Codingo challenge! For a central hub for all the questions, check out this web page: https://cbo-challenge.netlify.app/
 
-All question submissions should be uploaded here: https://forms.gle/7RaG58TL4oUvuBAM8
+All question submissions should be uploaded here: https://forms.gle/pz84pRCok7mhzjd48
 
 If you have any questions/comments/concerns feel free to ask them in this discord: https://discord.gg/94RJUHft
 
