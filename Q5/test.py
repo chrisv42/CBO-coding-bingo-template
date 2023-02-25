@@ -44,7 +44,7 @@ TEST_OUTPUT = [3, 7.5, 41.5, 4, 79.5]
 
 def test_function():
     for inp, out in zip(TEST_INPUT, TEST_OUTPUT):
-        res = average_of_list(inp)
+        res = median_of_list(inp)
         error_message = ("Expected {} from input value {}, but got {}.").format(
             out, inp, res
         )
