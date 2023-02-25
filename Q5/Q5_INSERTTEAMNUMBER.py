@@ -1,6 +1,6 @@
 """
 This function takes in a list of numbers and returns the 
-average of all the numbers rounded down.
+median of all the numbers rounded down.
 
 Arguments:
     list_of_nums (List[int] Array of integers): A list of the numbers
